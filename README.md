@@ -24,6 +24,10 @@ The following are some of the things that are plus.
 - POST web control processing
 - ROI picture output
 
+### Adaptation
+
+This is a personal fork and has been adapted to specifically fit my needs.
+
 ## Documentation
 
 The documentation for MotionPlus is currently in the process of being updated from the old
