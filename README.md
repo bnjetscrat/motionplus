@@ -30,8 +30,8 @@ This is a personal fork and has been adapted to specifically fit my needs.
 
 ## Documentation
 
-The documentation for MotionPlus is currently in the process of being updated from the old
-Motion application.
+The documentation for MotionPlus is currently in the process of being updated from the old Motion application. \
+See https://motion-project.github.io/ for further reference.
 
 ## License
 
